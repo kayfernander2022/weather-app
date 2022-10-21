@@ -2,7 +2,7 @@
 
 
 
-const API_KEY = "66882ffcbc2a8a68f9d2ea1f86bab5fd";
+const API_KEY = "api key";
 const BASE_URL ="https://api.openweathermap.org/data/2.5/weather?units=imperial&";
 
 const $title = $('#title');

@@ -1,0 +1,27 @@
+h1{
+color: blue;
+font-weight: bold;
+font-size: 50px;
+}
+
+
+p{
+  
+  font-size: 25px;
+  color:grey;
+  
+
+}
+
+body{
+  background-color: lightblue;
+  margin:0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input:hover{
+color: red;
+}
+
